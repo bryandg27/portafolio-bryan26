@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /.well-known/
 
-Sitemap: https://bryanhuerta.vercel.app/sitemap.xml
+Sitemap: https://bryanh-dg-portfolio.vercel.app/sitemap.xml
