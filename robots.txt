@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /.well-known/
+
+Sitemap: https://bryanhuerta.vercel.app/sitemap.xml
